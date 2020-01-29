@@ -28,6 +28,13 @@
         "phpunit/phpunit": "^5.0",
         "mockery/mockery": "^1.0"
     },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "Culpa\CulpaServiceProvider"
+        ]
+      }
+    },
     "autoload": {
         "psr-4": {
             "Culpa\\": "src/",
