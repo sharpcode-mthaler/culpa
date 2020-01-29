@@ -31,7 +31,7 @@
     "extra": {
       "laravel": {
         "providers": [
-          "Culpa\CulpaServiceProvider"
+          "Culpa\\CulpaServiceProvider"
         ]
       }
     },
